@@ -8,5 +8,8 @@ namespace ConsoleApp1
 {
     internal class Class2
     {
+        string sr = "test";
+
+
     }
 }
